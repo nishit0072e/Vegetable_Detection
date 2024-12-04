@@ -1,15 +1,3 @@
-# Eloquent Edge Impulse
-
-An *beginner-friendly* Arduino library to run [Edge Impulse](https://edgeimpulse.com) models
-with ease.
-
-## How to install
-
-Install latest version from the Arduino Library Manager.
-
-## How to use
-
-```cpp
 /**
  * Run Edge Impulse model by pasting
  * features into Serial Monitor
@@ -83,4 +71,3 @@ void loop() {
     impulse.buffer.clear();
     Serial.println();
 }
-```
