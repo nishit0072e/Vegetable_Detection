@@ -1,2 +1,2 @@
 # Vegetable_Detection
-About An AI model has been implemented to detect potato, onion &amp; tomato on a resource constrained hardware
+An AI model has been implemented to detect potato, onion &amp; tomato on a resource constrained hardware 
